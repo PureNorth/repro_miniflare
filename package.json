@@ -2,9 +2,9 @@
   "name": "@purenorth/qr-code-handler",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "^0.4.25",
-    "@cloudflare/workers-types": "^4.20240821.1",
-    "@miniflare/tre": "^3.0.0-next.1",
+    "@cloudflare/vitest-pool-workers": "^0.6.0",
+    "@cloudflare/workers-types": "^4.20250109.0",
+    "@miniflare/tre": "^3.0.0-next.14",
     "@types/upng-js": "*",
     "typescript": "*",
     "vitest": "1.5.0",
